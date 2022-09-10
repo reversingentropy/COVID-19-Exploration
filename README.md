@@ -12,4 +12,4 @@ https://www.kaggle.com/datasets/sambelkacem/covid19-algeria-and-world-dataset/co
 - Notebook contains the jupyter notebook created via vscode. Visualizations may have issues in display, hence:
 - Output folder contains html outputs of plotly visualizations.
 
-##Thank you! - Ashwin
+## Thank you! - Ashwin
