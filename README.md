@@ -1,4 +1,4 @@
-# Foobar
+# COVID-19-Assignment
 
 This is an assignment using data regarding COVID-19 cases and deaths around the world.
 
